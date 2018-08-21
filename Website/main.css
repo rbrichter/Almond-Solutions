@@ -1,0 +1,60 @@
+body
+{
+    font-family: 'Averia Libre', cursive;
+}
+
+.frontpage_page
+{
+    font-family: 'Averia Libre', cursive;
+    background-image: url("background/brick5.jpg");
+    color: rgb(90, 68, 50);
+}
+.people_page
+{
+    font-family: 'Averia Libre', cursive;
+    background-image: url("background/brick1.jpg");
+    color: rgb(0, 0, 0);
+}
+.contact_page
+{
+    font-family: 'Averia Libre', cursive;
+    background-image: url("background/brick2.jpg");
+    color: rgb(38, 56, 27);
+}
+.center
+{
+    position: absolute;
+    left: 0;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+.david_page
+{
+    font-family: 'Averia Libre', cursive;
+    background-image: url("background/brick3.jpg");
+    color: rgb(0, 0, 0);
+}
+.rudolph_page
+{
+    font-family: 'Averia Libre', cursive;
+    background-image: url("background/brick3.jpg");
+    color: rgb(0, 0, 0);
+}
+#borderr
+{
+    border: 2px grey;
+    padding: 10px;
+    border-radius: 25px;
+}
+.bottom
+{
+    position: fixed;
+    right: 0;
+    bottom: 2%;
+    width: 15%;
+    font-size: 16px;
+    color: black;
+}
+
